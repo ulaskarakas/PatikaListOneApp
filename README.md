@@ -1,4 +1,4 @@
-# Patika- List One App
+# Patika - List One App
 
 This project demonstrates how to work with lists and iterate over them using a `foreach` loop in C#. It displays a list of visitors in a numbered format. The project showcases basic collection handling and iteration techniques.
 
